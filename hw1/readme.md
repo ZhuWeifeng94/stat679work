@@ -1,6 +1,6 @@
 **Here are the shell scripts for hw1.**
 
-**And for the 3rd question, I will return a csv file called *summary_zwf.csv*.**
+**And for the 3rd question, I will return a csv file called [*summary_zwf.csv*](https://github.com/ZhuWeifeng94/stat679work/blob/master/hw1/summary_zwf.csv).**
 
 #About scripts
 ##*In ex1*
