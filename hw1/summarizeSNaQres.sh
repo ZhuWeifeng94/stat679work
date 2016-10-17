@@ -12,9 +12,9 @@ for filename in ./out/*.out
 
 	f=`grep proposals $c  | sed -E -n 's/.*proposals = ([0-9]+).*/\1/p'` #get max number of fails
 
-    	g=`grep ftolAbs $c | sed -E -n 's/.*ftolRel=([0-9.e-]+).*=([0-9.e-]+).*/\2 \1/p'` #get ftoAbs and ftoRel
+    	g=`grep ftolAbs $c | sed -E -n 's/.*ftolRel=([0-9.e-]+).*=([0-9.e-]+).*/\2\,\1/p'` #get ftoAbs and ftoRel
 
-    	h=`grep xtolAbs $c | sed -E -n 's/.*xtolAbs=([0-9.e-]+).*=([0-9.e-]+).*/\2 \1/p'` #get xAbs and xRel
+    	h=`grep xtolAbs $c | sed -E -n 's/.*xtolAbs=([0-9.e-]+).*=([0-9.e-]+)./\2\,\1/p'` #get xAbs and xRel
 
 	i=`grep seed $c | sed -E -n 's/main seed ([0-9]+).*/\1/p'` #get seeds value
 
