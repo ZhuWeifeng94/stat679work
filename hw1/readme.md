@@ -14,6 +14,7 @@ I need to change the file names in out/.
 <p>
 I use for loop and `mv` to change the name of out and log file.
 And the name for shell scripts is normalizeFileNames.sh.
+<p>[script]: (https://github.com/ZhuWeifeng94/stat679work/blob/master/hw1/normalizeFileNames.sh)
 
 ##*In ex2*
 I need to use `grep` function to get information from log files by for loop.
@@ -24,6 +25,7 @@ The information I need to find:
 * "analysis": the file name root
 - "h": number after hmax
 - "CPUtime": number after "Elapsed time"
+<p>[script]: (https://github.com/ZhuWeifeng94/stat679work/blob/master/hw1/summarizeSNaQres_ex2.sh)
 
 ##*In ex3*
 I need to 
@@ -43,3 +45,4 @@ I need to
   8. under3460:  number of runs with a network score under 3460
   9. under3450: number of runs with a network score under 3450
   10. under3440: number of runs with a network score under 3440
+<p>[script]: (https://github.com/ZhuWeifeng94/stat679work/blob/master/hw1/summarizeSNaQres.sh)
