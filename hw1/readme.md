@@ -26,14 +26,14 @@ I need to
 - use **basename** to get the name root but not grep
 - use **if** to get what I need
 - the information I need:
-  0.The colmumns in ex2
-  1.Nruns: number of runs
-  2.Nfail:"max number of failed proposals"
-  3.fabs: "ftolAbs"
-  4.frel: "ftolRel"
-  5.xabs: "xtolAbs"
-  6.xrel: "xtolRel"
-  7.seed: main seed
-  8.under3460:  number of runs with a network score under 3460
-  9.under3450: number of runs with a network score under 3450
-  10.under3440: number of runs with a network score under 3440
+  0. The colmumns in ex2
+  1. Nruns: number of runs
+  2. Nfail:"max number of failed proposals"
+  3. fabs: "ftolAbs"
+  4. frel: "ftolRel"
+  5. xabs: "xtolAbs"
+  6. xrel: "xtolRel"
+  7. seed: main seed
+  8. under3460:  number of runs with a network score under 3460
+  9. under3450: number of runs with a network score under 3450
+  10. under3440: number of runs with a network score under 3440
