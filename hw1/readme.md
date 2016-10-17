@@ -5,7 +5,7 @@
 
 #*In ex1*
 We need to change the file names.
-<p><p>
+<p>
 I use for loop and mv to change the name of out and log file.
 And the name for shell scripts is normalizeFileNames.sh.
 
