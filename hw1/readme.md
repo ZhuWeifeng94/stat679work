@@ -2,9 +2,15 @@
 
 **And for the 3rd question, I will return a csv file called [*summary_zwf.csv*](https://github.com/ZhuWeifeng94/stat679work/blob/master/hw1/summary_zwf.csv).**
 
+#About data
+<p>Two repositories are used named out and log.
+<p>In log/, files are all named as <name>.log
+<p>In out/, files are all named as <name>.log
+
+
 #About scripts
 ##*In ex1*
-I need to change the file names.
+I need to change the file names in out/.
 <p>
 I use for loop and mv to change the name of out and log file.
 And the name for shell scripts is normalizeFileNames.sh.
