@@ -11,12 +11,12 @@
 #About scripts
 ##*In ex1*
 I need to change the file names in out/.  
-I use for loop and `mv` to change the name of out and log file.
+I use for loop and `mv` to change the name of out and log file.  
 And the name for shell scripts is normalizeFileNames.sh.  
 script: [normalizeFileNames.sh](https://github.com/ZhuWeifeng94/stat679work/blob/master/hw1/normalizeFileNames.sh)
 
 ##*In ex2*
-I need to use `grep` function to get information from log files by for loop.
+I need to use `grep` function to get information from log files by for loop.  
 And followed the professors suggestions, I rewrite the shell file into summarizeSNaQres_ex2.sh  
 The information I need to find:  
 * "analysis": the file name root
