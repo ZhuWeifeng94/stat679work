@@ -1,2 +1,2 @@
 # stat679work
-This is a directory for hw1.
+This is a directory for 679-2 homework.
